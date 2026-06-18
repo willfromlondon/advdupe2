@@ -1,11 +1,11 @@
 {
 	"constraints": 96,
 	"displayName": "test2.txt",
-	"ad2gitVersion": "0.2.1",
+	"ad2gitVersion": "0.2.2",
 	"path": "dupes/bartsplane/test2.txt",
 	"updatedBy": "Will",
 	"localHash": "ff8af2deb1f902c0d603075b76eea748840684e4d9075838639d59d5778413bd",
-	"comment": "Initial Commit",
-	"updatedAt": "2026-06-18T22:17:25Z",
+	"comment": "Upload local AdvDupe2 library",
+	"updatedAt": "2026-06-18T22:59:53Z",
 	"entities": 51
 }

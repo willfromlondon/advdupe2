@@ -1,11 +1,11 @@
 {
 	"constraints": 166,
 	"displayName": "twinprop_modded_v13.txt",
-	"ad2gitVersion": "0.2.1",
+	"ad2gitVersion": "0.2.2",
 	"path": "dupes/twinprop/twinprop_modded_v13.txt",
 	"updatedBy": "Will",
 	"localHash": "9ba027100c5a343885ab07c86aa5de41cfddde52d154de31c8f47cb05ae53754",
-	"comment": "Initial Commit",
-	"updatedAt": "2026-06-18T22:17:28Z",
+	"comment": "Upload local AdvDupe2 library",
+	"updatedAt": "2026-06-18T22:59:56Z",
 	"entities": 74
 }

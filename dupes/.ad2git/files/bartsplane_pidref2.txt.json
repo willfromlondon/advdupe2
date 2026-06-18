@@ -1,11 +1,11 @@
 {
 	"constraints": 113,
 	"displayName": "pidref2.txt",
-	"ad2gitVersion": "0.2.1",
+	"ad2gitVersion": "0.2.2",
 	"path": "dupes/bartsplane/pidref2.txt",
 	"updatedBy": "Will",
 	"localHash": "49f065543cd8de8f7fe314052060964795c29a950834ab1d61e94ce50e43f342",
-	"comment": "Initial Commit",
-	"updatedAt": "2026-06-18T22:17:25Z",
+	"comment": "Upload local AdvDupe2 library",
+	"updatedAt": "2026-06-18T22:59:52Z",
 	"entities": 45
 }

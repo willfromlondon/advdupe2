@@ -1,11 +1,11 @@
 {
 	"constraints": 0,
 	"displayName": "primtest.txt",
-	"ad2gitVersion": "0.2.1",
+	"ad2gitVersion": "0.2.2",
 	"path": "dupes/primtest.txt",
 	"updatedBy": "Will",
 	"localHash": "9e71dca672dc3c5b5aa50d7326ccd5bbb1cd1c1934da9e52630ecd1b9e4faf7d",
-	"comment": "Initial Commit",
-	"updatedAt": "2026-06-18T22:17:27Z",
+	"comment": "Upload local AdvDupe2 library",
+	"updatedAt": "2026-06-18T22:59:55Z",
 	"entities": 1
 }

@@ -1,11 +1,11 @@
 {
 	"constraints": 20,
 	"displayName": "pid_test_1.txt",
-	"ad2gitVersion": "0.2.1",
+	"ad2gitVersion": "0.2.2",
 	"path": "dupes/pid_tests/pid_test_1.txt",
 	"updatedBy": "Will",
 	"localHash": "41eaa6dc938b51f83139009586dfd7c82fccb9c4a6e0125a0abfec1aebfea03c",
-	"comment": "Initial Commit",
-	"updatedAt": "2026-06-18T22:17:27Z",
+	"comment": "Upload local AdvDupe2 library",
+	"updatedAt": "2026-06-18T22:59:55Z",
 	"entities": 13
 }

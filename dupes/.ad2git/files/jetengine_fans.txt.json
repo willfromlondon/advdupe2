@@ -1,11 +1,11 @@
 {
 	"constraints": 1,
 	"displayName": "fans.txt",
-	"ad2gitVersion": "0.2.1",
+	"ad2gitVersion": "0.2.2",
 	"path": "dupes/jetengine/fans.txt",
 	"updatedBy": "Will",
 	"localHash": "ee427631fbd0f51369ba1e4837455c64827d87a72e127bbd8a87d8259c76659d",
-	"comment": "Initial Commit",
-	"updatedAt": "2026-06-18T22:17:26Z",
+	"comment": "Upload local AdvDupe2 library",
+	"updatedAt": "2026-06-18T22:59:54Z",
 	"entities": 2
 }

@@ -1,11 +1,11 @@
 {
 	"constraints": 19,
 	"displayName": "testflightcomputer.txt",
-	"ad2gitVersion": "0.2.1",
+	"ad2gitVersion": "0.2.2",
 	"path": "dupes/testflightcomputer.txt",
 	"updatedBy": "Will",
 	"localHash": "aca68170564e5c2f748f2618d3d3e44c58ae4db405d640592be4b38b48147cdd",
-	"comment": "Initial Commit",
-	"updatedAt": "2026-06-18T22:17:27Z",
+	"comment": "Upload local AdvDupe2 library",
+	"updatedAt": "2026-06-18T22:59:55Z",
 	"entities": 17
 }

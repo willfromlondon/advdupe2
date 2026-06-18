@@ -1,11 +1,11 @@
 {
 	"constraints": 155,
 	"displayName": "phys_4.txt",
-	"ad2gitVersion": "0.2.1",
+	"ad2gitVersion": "0.2.2",
 	"path": "dupes/concorde/phys_4.txt",
 	"updatedBy": "Will",
 	"localHash": "175c060795dd7b9407f8e5f60b312387fae3b5b4c7158fabc1bc370c61bf8d5b",
-	"comment": "Initial Commit",
-	"updatedAt": "2026-06-18T22:17:26Z",
+	"comment": "Upload local AdvDupe2 library",
+	"updatedAt": "2026-06-18T22:59:54Z",
 	"entities": 65
 }

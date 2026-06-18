@@ -1,11 +1,11 @@
 {
 	"constraints": 15,
 	"displayName": "beta7.txt",
-	"ad2gitVersion": "0.2.1",
+	"ad2gitVersion": "0.2.2",
 	"path": "dupes/missile/beta7.txt",
 	"updatedBy": "Will",
 	"localHash": "b831174c4a3f6067330f2881c5eaae37a519eb1619a35cfe473d79b107b970d4",
-	"comment": "Initial Commit",
-	"updatedAt": "2026-06-18T22:17:27Z",
+	"comment": "Upload local AdvDupe2 library",
+	"updatedAt": "2026-06-18T22:59:55Z",
 	"entities": 14
 }
